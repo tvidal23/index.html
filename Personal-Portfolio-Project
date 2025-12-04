@@ -294,7 +294,7 @@ CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
                 challenge: "I needed a professional porfolio to showcase my projects,but had no prior experience and struggled with image hosting and layout",
                 solution: "I learned how to uploud my images and connect them to my code.",
                 result: "Improved my understanding of file hosting, HTML structure, and deploying websites with Github",
-                link: "https://github.com/tvidal23/index.html"
+                link: "https://github.com/tvidal23/Personal-Portfolio-Project"
             },
         
         ];
@@ -561,6 +561,7 @@ CONFIRMATION: NO SVG graphics used. NO Mermaid JS used. -->
     </script>
 </body>
 </html>
+
 
 
 
